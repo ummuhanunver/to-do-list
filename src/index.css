@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme{ ... }
+
+@layer base {}
+
+@layer components {}
+
+@utility text-gradient {}
+
+@utility fancy-text{}
+
+@utility hide-scrollbar {}
